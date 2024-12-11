@@ -1,0 +1,11 @@
+*.pbix
+*.csv
+*.json
+.ipynb_checkpoints
+
+!practice-1-data-professional-survey/*.csv
+!practice-1-data-professional-survey/**/*.csv
+!practice-1-data-professional-survey/*.pbix
+!practice-1-data-professional-survey/**/*.pbix
+!practice-1-data-professional-survey/*.json
+!practice-1-data-professional-survey/**/*.json
